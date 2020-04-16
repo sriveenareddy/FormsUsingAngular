@@ -22,4 +22,6 @@ describe('ChildComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+  
 });
+
