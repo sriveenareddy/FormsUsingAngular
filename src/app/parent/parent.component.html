@@ -1,0 +1,21 @@
+  
+<app-child [all]='getTotalcount()' [female]='getTotalFemalecount()' [male]='getTotalMalecount()' 
+></app-child>
+<table >
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>NAME</th>
+            <th>GENDER</th>
+        </tr> 
+    </thead>
+<tbody>
+
+<tr  *ngFor ="let emp of employees" >
+   <td> {{emp.id}}</td>
+    <td>{{emp.name}}</td>
+    <td>{{emp.gender}}</td>
+    </tr>
+
+</tbody>
+</table>

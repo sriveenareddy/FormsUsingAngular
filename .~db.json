@@ -1,0 +1,70 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mark564",
+      "contactPreference": "email",
+      "email": "s@gmail.com",
+      "phone": 813,
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experiance": 4,
+          "Proficiency": "Beginner"
+        },
+        {
+          "skillName": "HTML",
+          "experiance": 4,
+          "Proficiency": "Beginner"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "John",
+      "contactPreference": "email",
+      "phone": "2222222",
+      "skills": [
+        {
+          "skillName": "css",
+          "experiance": 4,
+          "Proficiency": "Beginner"
+        },
+        {
+          "skillName": "css",
+          "experiance": 4,
+          "Proficiency": "Beginner"
+        }
+      ],
+      "email": "sriveena22.s@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "sriveena ",
+      "contactPreference": "email",
+      "email": "sriveena22.s@gmail.com",
+      "phone": "+1 813-408-4195",
+      "skills": [
+        {
+          "skillName": "Angular",
+          "experiance": 4,
+          "Proficiency": "Beginner"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "fullName": "karun",
+      "contactPreference": "email",
+      "email": "sripranareddy@gmail.com",
+      "phone": "813606",
+      "skills": [
+        {
+          "skillName": "HTML",
+          "experiance": 4,
+          "Proficiency": "Intermediate"
+        }
+      ]
+    }
+  ]
+}
